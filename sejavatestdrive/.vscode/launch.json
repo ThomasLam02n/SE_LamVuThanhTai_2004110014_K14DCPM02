@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch UITerminal",
+            "request": "launch",
+            "mainClass": "UITerminal",
+            "projectName": "sejavatestdrive_19316752"
+        },
+        {
+            "type": "java",
+            "name": "Launch SCRTestDrive",
+            "request": "launch",
+            "mainClass": "SCRTestDrive",
+            "projectName": "sejavatestdrive_19316752"
+        },
+        {
+            "type": "java",
+            "name": "Launch SCRTestDrive",
+            "request": "launch",
+            "mainClass": "simplecinemareservation.SCRTestDrive",
+            "projectName": "sejavatestdrive_19316752"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
